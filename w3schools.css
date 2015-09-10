@@ -1,0 +1,13 @@
+header {
+	font-family: Verdana;
+	font-size: 38px;
+}
+.hintBtn:hover {
+
+	background-color: #ec971f;
+}
+.hintBtn {
+	background-color: #f0ad4e;
+	color: white;
+	border: none;
+}
